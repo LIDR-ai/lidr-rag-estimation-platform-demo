@@ -44,7 +44,7 @@ gem "thruster", require: false
 gem "faraday", "~> 2.9"
 
 # Tailwind CSS integration for Rails
-gem "tailwindcss-rails", "~> 3.0"
+gem "tailwindcss-rails", "~> 4.6"
 
 # PDF generation
 gem "prawn", "~> 2.5"
