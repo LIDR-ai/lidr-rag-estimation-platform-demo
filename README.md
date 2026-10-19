@@ -5,7 +5,7 @@ Plataforma web para estimar presupuestos de proyectos tecnológicos usando **RAG
 El sistema consta de dos repositorios independientes:
 
 - **rag-estimation-platform** (este repo) — Aplicación web Rails para la gestión de estimaciones, exportación PDF/JSON y UI.
-- **[rag-estimation-service](../rag-estimation-service)** — Servicio RAG con FastAPI, pgvector y OpenAI para indexación y estimación con IA.
+- **[rag-estimation-service](https://github.com/LIDR-ai/lidr-rag-estimation-service-demo)** — Servicio RAG con FastAPI, pgvector y OpenAI para indexación y estimación con IA.
 
 ## Arquitectura del sistema
 
