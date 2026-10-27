@@ -206,12 +206,12 @@ GEM
       ast (~> 2.4.1)
       racc
     pdf-core (0.10.0)
-    pg (1.6.3)
-    pg (1.6.3-aarch64-linux)
-    pg (1.6.3-aarch64-linux-musl)
-    pg (1.6.3-arm64-darwin)
-    pg (1.6.3-x86_64-linux)
-    pg (1.6.3-x86_64-linux-musl)
+    pg (1.7.0)
+    pg (1.7.0-aarch64-linux)
+    pg (1.7.0-aarch64-linux-musl)
+    pg (1.7.0-arm64-darwin)
+    pg (1.7.0-x86_64-linux)
+    pg (1.7.0-x86_64-linux-musl)
     pp (0.6.3)
       prettyprint
     prawn (2.5.0)
@@ -412,7 +412,7 @@ DEPENDENCIES
   kamal
   minitest (~> 5.25)
   pagy (~> 9.0)
-  pg (~> 1.5)
+  pg (~> 1.7)
   prawn (~> 2.5)
   prawn-table (~> 0.2)
   propshaft
